@@ -2,4 +2,4 @@
 
 Säkerhet och dataintegritet är kärnan i vår plattform. Vi tillhandahåller en GDPR-kompatibel och helt isolerad miljö för varje kund, vilket garanterar att känslig företagsinformation aldrig används för att träna externa modeller. Från den initiala konfigurationen och dataintegrationen till löpande uppdateringar och prestandaoptimering erbjuder Smartsvar en komplett helhetslösning. Vi levererar en långsiktig AI-kollega som minskar supportbördan, genererar leads dygnet runt och ger interna team omedelbar tillgång till företagets samlade kunskap – vilket i praktiken sätter företagets kundtjänst och interna support på en säker autopilot.
 
-Besök vår hemsida på
+Besök vår hemsida på [Smartsvar.se](https://smartsvar.se)
